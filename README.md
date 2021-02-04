@@ -5,7 +5,7 @@ This project explores how different indicators used to measure the prevalence of
 The project aims to answer the following questions:
 - How well can we use energy consumption predictions at the household level with scarce geographical information (RECS) to understand energy consumption patterns at the census tract level? 
 - How do different energy expenditure indicators influence the counting/recognition of housholds as enrgy poor in the areas of study?
-- What aspects of energy vulnerability cannot be understood uniquely through expenditure thresholds?
+- What aspects of energy vulnerabilities cannot be understood uniquely through expenditure thresholds?
 - What proxies can be used to understand "Hidden Energy Poverty"?
 - How can energy efficiency proxies and expenditure metrics compement each other to undertand the multidimensional nature of energy insecurity?
 - Finally, how is energy poverty distributed in California and New York? 
