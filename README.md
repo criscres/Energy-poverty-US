@@ -1,7 +1,7 @@
 # Energy-poverty-US
 
-This repository supports the analysis presented in the article:  
-**"Uncovering the dimensions and distribution of household energy insecurity in the United States"**, submitted to *Nature Energy*.
+This repository supports the analysis presented in the manuscript:  
+**"Uncovering the dimensions and distribution of household energy insecurity in the United States"**.
 
 ## Overview
 This project introduces a multidimensional framework to measure household energy insecurity across U.S. census tracts. Using machine learning models trained on the Residential Energy Consumption Survey (RECS), we estimate ten indicators of economic, behavioral, and physical energy hardship. These models are applied to representative "typical" households in over 82,000 U.S. census tracts using American Community Survey (ACS) data. The resulting spatial and demographic insights are used to assess the adequacy of existing energy assistance and weatherization programs.
@@ -49,7 +49,7 @@ Scripts to:
 - Batlle, C., et al. (2024). *US federal resource allocations are inconsistent with concentrations of energy poverty.* Science Advances. [DOI](https://doi.org/10.1126/sciadv.adp8183)
 
 ## Citation
-If you use this code, methodology, or indicators, please cite our article (forthcoming in *Nature Energy*) and consider starring the repository.
+If you use this code, methodology, or indicators, please cite our article (forthcoming in *XX*) and consider starring the repository.
 
 ---
 
